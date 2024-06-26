@@ -8,6 +8,7 @@
   - [SQL Join Practice](https://github.com/Nat0627/Portfolio-Projects/blob/main/SQLJoin_Practice_C2.sql)
   - [SQL Aggregated Grouping Report](https://github.com/Nat0627/Portfolio-Projects/blob/main/SQL_Grouping_Aggregates_Reporting_C3.sql)
   - [Sales Data Analysis with SQL](https://github.com/Nat0627/Portfolio-Projects/blob/main/SQL_Practice_C1.sql)
+  - [Basic SQL Customer Movie Data Exploration](https://github.com/Nat0627/Portfolio-Projects/blob/main/Basic_SQL_Commented.sql)
 
 
 </h2>📃 Certification(s)</h2>
